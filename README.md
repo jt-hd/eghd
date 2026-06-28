@@ -7,6 +7,12 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
   -`frontend/` for Angular.  
   -`scripts/` for deployment helpers if needed.  
 
+## Git
+
+    git add .
+    git commit -m "message"
+    git push
+
 ## Development server
 
 To start a local development server, run:
