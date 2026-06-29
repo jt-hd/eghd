@@ -1,0 +1,9 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.inlayHints.enabled": "on",
+  "ts.inlayHints.parameterNames.enabled": "all",
+  "ts.inlayHints.functionLikeReturnTypes.enabled": true,
+  "ts.inlayHints.parameterTypes.enabled": true,
+  "ts.inlayHints.propertyDeclarationTypes.enabled": true,
+  "ts.inlayHints.variableTypes.enabled": true
+}
