@@ -3,9 +3,15 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.4.
 
 ## File System
-  -`backend/` for PHP.  
-  -`frontend/` for Angular.  
-  -`scripts/` for deployment helpers if needed.  
+```text
+project-root/
+├── backend/     # PHP
+├── frontend/    # Angular
+└── scripts/     # Deployment helpers (if needed)
+```
+
+## VS Code
+A lot of files and folders (like "node_modules", ".angular" etc.) seem to be missing in the VS Code file explorer. The reason can be found in the file ".vscode/settings.json": they could be hidden using the "files.exclude" parameter.
 
 ## Git
 
