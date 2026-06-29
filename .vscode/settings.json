@@ -5,5 +5,14 @@
   "ts.inlayHints.functionLikeReturnTypes.enabled": true,
   "ts.inlayHints.parameterTypes.enabled": true,
   "ts.inlayHints.propertyDeclarationTypes.enabled": true,
-  "ts.inlayHints.variableTypes.enabled": true
+  "ts.inlayHints.variableTypes.enabled": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "LICENSE": true,
+    "package*.json": true,
+    ".editorconfig": true,
+    ".prettierrc": true,
+    "**/.vscode": false,
+    ".gitignore": false
+  }
 }
